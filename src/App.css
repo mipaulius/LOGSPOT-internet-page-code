@@ -1,40 +1,12 @@
-.header {
-  max-width: 1440px;
-  display: grid;
-  grid-template-columns: 4fr 1fr 1fr 1fr 1fr;
+body {
+  background-color: #FFFDF1;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
-.footer {
-  max-width: 1440px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-}
 
-li {
-  list-style-type: none;
-}
 
-.social-images {
-  width: 40px;
-  height: 40px;
-}
 
-.social-networks {
-  margin-bottom: 10px;
-}
 
-.footer-4 {
-  text-align: start;
-}
-
-.social-text {
-  margin-left: 8px; /* Adjust this value as needed */
-  vertical-align: middle;
-}
-
-.social-list-item {
-  display: flex;
-  align-items: center; /* Vertically center items */
-}
 
 
